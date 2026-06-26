@@ -3,7 +3,7 @@
 ## Overview
 This project applies deep reinforcement learning to the Gymnasium LunarLander-v3 environment. The goal is to train an intelligent agent to land a lunar module safely while considering fuel as an additional resource feature.
 
-The project compares a Baseline Deep Q-Network (DQN) agent with an Advanced Double DQN (DDQN) agent under the same architecture and hyperparameters.
+The project compares a Baseline Deep Q-Network (DQN) agent with an Advanced Double DQN (DDQN) agent under the same architecture and hyperparameters
 
 ## Project Topic
 Intelligent Lunar Landing: Deep Reinforcement Learning with Resource Management
